@@ -1,8 +1,6 @@
 # Covid-19-Tableau
 ## (WORLD/INDIA) Covid-19 Analysis.
 
-This project was created as a part of the INSAID Term Tableau projects.
-
 ![enter image description here](https://raw.githubusercontent.com/Vishweshwar-satpute/Covid-19-Tableau/main/covid-19.jpg)
 
 The dataset maintained and updated by the Johns Hopkins University Center for Systems Science and Engineering. Tableau cleans, reshapes, and makes this data ready for your analysis, and is updated at approximately 7 p.m. PST.
