@@ -7,6 +7,8 @@ This project was created as a part of the INSAID Term Tableau projects.
 
 The dataset maintained and updated by the Johns Hopkins University Center for Systems Science and Engineering. Tableau cleans, reshapes, and makes this data ready for your analysis, and is updated at approximately 7 p.m. PST.
 
+Please find the Data Set link  ![HERE](https://data.world/covid-19-data-resource-hub/covid-19-case-counts)
+
 ![enter image description here](https://raw.githubusercontent.com/Vishweshwar-satpute/Covid-19-Tableau/main/3b_WHO_Johnson_Banks_Bounce.gif)
 
 Clean your hands often
